@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 &nbsp;I’m currently working on building drivers for linux kernel
+- 🔭 &nbsp;I’m currently working on some drivers for linux kernel
 - 📫 &nbsp;How to reach me: [@sebinsebastian](https://twitter.com/sebinseban) or <a rel="me" href="mailmesebin00@gmail.com">mailme</a>
 - 🤔 I’m looking for help with some low level assembly concepts
 - 💬 Ask me about C programming
