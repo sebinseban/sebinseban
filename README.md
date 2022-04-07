@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **sebinseban/sebinseban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,15 +5,22 @@
 Here are some ideas to get you started:
 -->
 
+### Hi there, I'm Sebin 👋 
 
-- 🔭 &nbsp;I’m currently working on an some embedded projects
-- 🌱 &nbsp;I’m currently learning to write drivers for STM32F4 peripherals
-- 💬 &nbsp;Let's have a chat about -----
+[![Twitter Follow](https://img.shields.io/twitter/follow/SebinSe22743748?label=Follow)](https://twitter.com/intent/follow?screen_name=SebinSe22743748)
+[![Linkedin: Nikhil](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilfrancisgiji/)](https://www.linkedin.com/in/sebinseban/)
+![GitHub followers](https://img.shields.io/github/followers/nikhilgiji?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=sebinseban&color=brightgreen">  
+
+
+## 👨🏻‍💻 &nbsp;About Me
+
+
+
+- 🔭 &nbsp;I’m currently working on building drivers for linux kernel
 - 📫 &nbsp;How to reach me: [@sebinsebastian](https://twitter.com/sebinseban) or <a rel="me" href="mailmesebin00@gmail.com">mailme</a>
 - 🤔 I’m looking for help with some low level assembly concepts
 - 💬 Ask me about C programming
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fact: Deleted Code is Debugged Code.
 
 📊 &nbsp;**This week I spent my time on**
