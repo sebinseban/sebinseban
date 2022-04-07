@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Sebin 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SebinSe22743748?label=Follow)](https://twitter.com/intent/follow?screen_name=SebinSe22743748)
-[![Linkedin: Nikhil](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilfrancisgiji/)](https://www.linkedin.com/in/sebinseban/)
-![GitHub followers](https://img.shields.io/github/followers/nikhilgiji?label=Follow&style=social)
+[![Linkedin: Sebin](https://img.shields.io/badge/-Sebin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebinseban/)](https://www.linkedin.com/in/sebinseban/)
+![GitHub followers](https://img.shields.io/github/followers/sebinseban?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sebinseban&color=brightgreen">  
 
 
