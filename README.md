@@ -42,9 +42,9 @@ Text       0 secs          ░░░░░░░░░░░░░░░░░�
 
   
  
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sebinseban&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <!--[Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)>
+ <!--[Sebins's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sebinseban&theme=xcode)>
 
 
 [![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebinseban)](https://github.com/anuraghazra/github-readme-stats)
