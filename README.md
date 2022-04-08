@@ -29,7 +29,14 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 
-
+```text
+C             7 hrs 40 mins   ███████████████████▓░░░░░   79.33 %
+Markdown      59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Text          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Makefile      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Git Config    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+```
 
 <!--END_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@sebinsebastian/f672da50-8c2c-4ba2-a970-5a7ea8e5a14a.svg"></embed></figure>
