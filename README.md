@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 
 
 <!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@sebinsebastian/f672da50-8c2c-4ba2-a970-5a7ea8e5a14a.svg"></embed></figure>
