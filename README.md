@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 📊 &nbsp;**This week I spent my time on**
 
-
+<figure><embed src="https://wakatime.com/share/@sebinsebastian/2911a928-aa1d-43e5-81c3-d149aa749d01.svg"></embed></figure>
  
 <!--START_SECTION:waka-->
 
