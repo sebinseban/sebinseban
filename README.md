@@ -51,3 +51,7 @@ Objective-C   2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+#### Github Stats
+
+![Sebin's github stats](https://github-readme-stats.vercel.app/api?username=sebinseban&count_private=true&theme=tokyonight&hide=contribs,prs)
