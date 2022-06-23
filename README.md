@@ -42,7 +42,7 @@ I'm Sebin Sebastian, an aspiring linux kernel developer. I only write code in C 
 <!--START_SECTION:waka-->
 
 ```text
-Bash   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
