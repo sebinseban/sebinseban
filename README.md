@@ -9,11 +9,6 @@ Here are some ideas to get you started:
 
 :mailbox: Reach me out!
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/SebinSe22743748?label=Follow)](https://twitter.com/intent/follow?screen_name=SebinSe22743748)
-[![Linkedin: Sebin](https://img.shields.io/badge/-Sebin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebinseban/)](https://www.linkedin.com/in/sebinseban/)
-[![Insta Badge](https://img.shields.io/badge/-@sebn_sebastn-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sebn_sebastn)
-[![Mail Badge](https://img.shields.io/badge/-mailmesebin00-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mailmesebin00@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/sebinseban?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sebinseban&color=brightgreen">  
 
