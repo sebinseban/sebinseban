@@ -20,11 +20,7 @@ I'm Sebin Sebastian, an aspiring linux kernel developer. I only write code in C 
 
 
 ## 👨🏻‍💻 &nbsp;About Me
-- 🔭 &nbsp;I’m currently working on some drivers for linux kernel
-- 📫 &nbsp;How to reach me: [@sebinsebastian](https://twitter.com/sebinseban) or <a rel="me" href="mailmesebin00@gmail.com">mailme</a>
-- 🤔 I’m looking for help with some low level assembly concepts
-- 💬 Ask me about C programming
-- ⚡ Fact: Deleted Code is Debugged Code.
+
 
 
 
